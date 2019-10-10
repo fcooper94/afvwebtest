@@ -3,7 +3,7 @@
 
 - 
 
-In order to use our new AFV integrated x-plane client, <i>xPilot</i>, you simply need to <a href="http://xpilot.clowd.io/installers/xxxx">download the latest version.</a> If you already have xPilot installed, make sure you update to the latest version when prompted.
+In order to use our new AFV integrated x-plane client, <i>xPilot</i>, you simply need to <a href="/downloads/xpilot">download the latest version.</a> If you already have xPilot installed, make sure you update to the latest version when prompted.
 
 <span style="width:100%;display:flex;"><img src="https://i.imgur.com/5tMhDu3.png"></span>
 
