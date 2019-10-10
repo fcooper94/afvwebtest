@@ -5,9 +5,9 @@
 
 In order to use xSquawkbox with Audio for VATSIM, you will need to ensure you are using the latest version of xSquawkbox and also download the Audio for VATSIM standalone client.
 
-<b>Step 1:</b> <a href="http://xsb.xsquawkbox.net/download">Download and install the latest version of xSquawkbox.</a>
+<b>Step 1:</b> <a href="/downloads/xsquawkbox">Download and install the latest version of xSquawkbox.</a>
 
-<b>Step 2:</b> <a href="https://audio.vatsim.net/downloads/standalone">Download and install the Audio for VATSIM standalone client.</a>
+<b>Step 2:</b> <a href="/downloads/standalone">Download and install the Audio for VATSIM standalone client.</a>
 
 <b>Step 3:</b> Connect to the network using xSquawkbox in the normal way.
 
