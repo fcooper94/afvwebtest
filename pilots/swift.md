@@ -15,7 +15,7 @@ In order to use Swift with Audio for VATSIM, you will need to ensure you are usi
 
 The First time your run the Stand-Alone client, be sure to open settings and calibrate your microphone. When talking, the bar should should be bouncing into the green band. If it does not, make sure you increase the mic volume using the slider.
 
-<span style="width:100%;display:flex;"><img src="https://i.imgur.com/J3C45wA.png"></span>
+<span style="width:100%;display:flex;margin-top: .5rem;padding:1.25rem;"><img style="margin:auto;max-height: 360px;" src="https://i.imgur.com/J3C45wA.png" alt="Standalone Settings"></span>
 
 Don't forget to assign a Push-to-talk!
 
