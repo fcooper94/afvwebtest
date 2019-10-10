@@ -1,10 +1,26 @@
-# Euroscope
+# Euroscope (Requires Stand-Alone client)
 
 
 - 
 
-You will need to update <i>Euroscope</i> to its latest version and download the <i>Audio for VATSIM</i> standalone client to use voice at launch. The standalone client can be downloaded from this website from the 11th October.<BR>
+In order to use Euroscope with Audio for VATSIM, you will need to ensure you are using the latest version and also download the Audio for VATSIM standalone client.
 
-A Euroscope plugin to enable the standalone VCCS to sync text channels and configure ATIS will also be required. This will also be available on the 11th October.<BR>
+Although at present you require the stand-alone client, we expect Euroscope to be fully integrated shortly.
 
-<i>(Full integration is expected shortly after launch as some ATC-specific features will need to be coded into the clients and we do not want to delay release of Audio for VATSIM for these features)</i>
+<b>Step 1:</b> <a href="/downloads/euroscope">Download and install the AFV Euroscope Shortcut.</a>
+
+<b>Step 2:</b> <a href="/downloads/standalone">Download and install the Audio for VATSIM standalone client.</a>
+
+<b>Step 3:</b> <a href="/downloads/plugin">Download and install the 'AFV Bridge Plugin'.</a> (This creates text channels for psuedo positions)
+
+<img src="https://i.imgur.com/UqiQ3fX.png">
+
+<b>Step 4:</b> Connect to the network using Euroscope in the normal way.
+
+<b>Step 5:</b> Launch the Audio for VATSIM software.
+
+The First time your run the Stand-Alone client, be sure to open settings and calibrate your microphone. When talking, the bar should should be bouncing into the green band. If it does not, make sure you increase the mic volume using the slider.
+
+<span style="width:100%;display:flex;"><img src="https://i.imgur.com/J3C45wA.png"></span>
+
+Don't forget to assign a Push-to-talk!
