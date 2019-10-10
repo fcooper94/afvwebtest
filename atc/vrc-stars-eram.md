@@ -11,8 +11,6 @@ Although at present you require the stand-alone client, we expect them to be ful
 
 <b>Step 2:</b> <a href="/downloads/standalone">Download and install the Audio for VATSIM standalone client.</a>
 
-<span style="width:100%;display:flex;margin-top: .5rem;padding:1.25rem;"><img style="margin:auto;max-height: 360px;" src="https://i.imgur.com/UqiQ3fX.png" alt="AFV Plugin"></span>
-
 <b>Step 3:</b> Connect to the network using VRC/STARS/ERAM in the normal way.
 
 <b>Step 4:</b> Launch the Audio for VATSIM software.
