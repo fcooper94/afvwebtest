@@ -7,7 +7,7 @@ In order to use FSINN or Squawkbox with Audio for VATSIM, you will need to ensur
 
 <b>Step 1:</b> Download and install the latest version of FSINN or Squawkbox.
 
-<b>Step 2:</b> <a href="https://audio.vatsim.net/downloads/standalone">Download and install the Audio for VATSIM standalone client.</a>
+<b>Step 2:</b> <a href="/downloads/standalone">Download and install the Audio for VATSIM standalone client.</a>
 
 <b>Step 3:</b> Connect to the network using FSINN or Squawkbox in the normal way.
 
